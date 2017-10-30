@@ -1,4 +1,4 @@
-FROM jenkins:latest
+FROM jenkins/jenkins:lts
 
 MAINTAINER Bertrand Martel <bmartel.fr@gmail.com>
 
